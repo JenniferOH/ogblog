@@ -24,7 +24,7 @@ Header1				{#zhugeliang}
 
 블로그 오늘 처음 개설했는데 어떻게 하는지 모르게따!
 
-Header2                         {#zhugeliang}
+Header2                        
 ------------------------
 
 이건 두번째 헤더이다!
