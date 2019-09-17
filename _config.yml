@@ -5,7 +5,7 @@ author: JenniferOh
 url: 'https://jenniferoh.github.io/og.github.io/'
 resume_site: https://www.linkedin.com/in/jennifer-oh-15223412a/
 github: https://github.com/JenniferOH/og.github.io
-baseurl: ""
+baseurl: "/og.github.io"
 description: Actually, less is more!
 meta_description: 오지는 블로그
 motto: It's our wits that make us men.
