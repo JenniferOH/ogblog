@@ -1,14 +1,14 @@
 # Site settings
-name: Less Or More
+name: O.G. Blog
 email: jennifer.ooooh@gmail.com
 author: JenniferOh
 url: 'https://jenniferoh.github.io/og.github.io/'
 resume_site: https://www.linkedin.com/in/jennifer-oh-15223412a/
 github: https://github.com/JenniferOH/og.github.io
 baseurl: "/og.github.io"
-description: Actually, less is more!
-meta_description: 오지는 블로그
-motto: It's our wits that make us men.
+description: 오지게 끄적거린 블로그 입니다.
+meta_description: 블로그 오졌다
+motto: '오지다: 마음에 흡족하게 흐뭇하다.'
 banner: 블라블라
 
 #permalink: /:categories/:year/:month/:day/:title/
