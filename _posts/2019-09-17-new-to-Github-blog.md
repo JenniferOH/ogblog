@@ -3,7 +3,8 @@ layout: post
 title:  "New to Github Blog"
 date:   2019-09-17 22:36:01 +0800
 categories: jekyll
-tag: jekyll
+tag: [jekyll]
+
 ---
 
 * content
