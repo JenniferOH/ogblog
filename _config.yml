@@ -2,14 +2,14 @@
 name: O.G. Blog
 email: jennifer.ooooh@gmail.com
 author: JenniferOh
-url: 'https://jenniferoh.github.io/og.github.io/'
+url: 'https://jenniferoh.github.io/ogblog/'
 resume_site: https://www.linkedin.com/in/jennifer-oh-15223412a/
-github: https://github.com/JenniferOH/og.github.io
+github: https://github.com/JenniferOH/
 baseurl: "/og.github.io"
 description: 오지게 끄적거린 블로그 입니다.
 meta_description: 블로그 오졌다
-motto: '오지다: 마음에 흡족하게 흐뭇하다.'
-banner: 블라블라
+motto: '오지다: 마음에 흡족하다.'
+banner: this blog is in construction..
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
