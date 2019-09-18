@@ -18,21 +18,21 @@ Kmeans를 사용하려 데이터를 잘 분류하려면 가장 중요한 요소�
 3. DB(Davies Bouldin) Index
 
 
-Sillouette Score				{#실루엣}
+Sillouette Score				
 ------------------------
 
 ![诫子书]({{ '/styles/images/jiezishu.jpg' | prepend: site.baseurl  }})
 
 
 
-Inertia				{#이너시아}
+Inertia				
 ------------------------
 
 ![诫子书]({{ '/styles/images/jiezishu.jpg' | prepend: site.baseurl  }})
 
 
 
-DB(Davies Bouldin) Index				{#DB Index}
+DB(Davies Bouldin) Index				
 ------------------------
 
 ![诫子书]({{ '/styles/images/jiezishu.jpg' | prepend: site.baseurl  }})
