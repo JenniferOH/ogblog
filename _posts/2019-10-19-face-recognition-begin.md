@@ -21,7 +21,7 @@ tag: [Image, DL, RaceRecognition]
 2. 인식된 사물들 중 죽복을 제거하는 단계
 3. 사물들 중 얼굴이라고 할 수 있는 사물을 인식하는 단계
 
-![诫子书]({{ '/styles/images/face_rec_steps.jpg' | prepend: site.baseurl }})
+![face_rec_steps]({{ '/styles/images/face_rec_steps.png' | prepend: site.baseurl }})
 
 
 
