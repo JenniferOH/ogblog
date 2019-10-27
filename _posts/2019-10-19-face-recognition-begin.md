@@ -2,7 +2,7 @@
 layout: post
 title:  "Face Recognition 시작하기 "
 date:   2019-10-19 16:31:01 +0800
-categories: [Deap Learning]
+categories: [Deep Learning]
 tag: [Image, DL, RaceRecognition]
 ---
 
