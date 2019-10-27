@@ -2,7 +2,7 @@
 layout: post
 title:  "Deep Learning Tools/Frameworks "
 date:   2019-10-27 12:55:01 +0800
-categories: [Deap Learning]
+categories: [Deep Learning]
 tag: [DL]
 ---
 
