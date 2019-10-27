@@ -35,9 +35,6 @@ Deel Learning Tool은 왜 필요할까?
 ![face_rec_steps]({{ '/styles/images/full_stack_dl/dl_tools.png' | prepend: site.baseurl }})
 
 
-Deep Learning Infrastructure
-------------------------
-
 강의에서는 어떤 tools을 사용할지 고르는 방법에 대해 설명한다.
 그 중 가장 먼저 선택해야 할 것은 on-prem 으로 할지, cloud로 할지 이다.
 
@@ -52,6 +49,12 @@ Deep Learning Tools example
 ![face_rec_steps]({{ '/styles/images/full_stack_dl/compare_dl_tools.png' | prepend: site.baseurl }})
 
 
+
+Weights & Biases
+- Deep Learning 프레임워크를 래핑하여 사용하기 쉽게하고, 여러가지 api와 연동하여 서비스를 제공함
+- 지원 프레임워크: TensorFlow, PyTorch, Keras, Fast.ai, XGBoost, Scikit
+- 장점: GitBook을 활용하여 그래프를 예쁘게 보여줄 수 있음있음
+- 비용: 
 
 
 
