@@ -54,7 +54,7 @@ Weights & Biases
 - Deep Learning 프레임워크를 래핑하여 사용하기 쉽게하고, 여러가지 api와 연동하여 서비스를 제공함
 - 지원 프레임워크: TensorFlow, PyTorch, Keras, Fast.ai, XGBoost, Scikit
 - 장점: GitBook을 활용하여 그래프를 예쁘게 보여줄 수 있음있음
-- 비용: 
+- 비용: 무료 버전도 있으나 사용할 수 있는 기능이 제한적, Enterprise 버전이 좀 더 다양한 기능을 제공함
 
 
 
