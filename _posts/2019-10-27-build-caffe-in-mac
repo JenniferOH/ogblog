@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Building Caffe in MacOS"
+date:   2019-10-27 14:25:01 +0800
+categories: [Deep Learning]
+tag: [DL, Caffe]
+---
+
+* content
+{:toc}
+
+
+파이썬: python3.6.5 anaconda 
+OS: Mojave 10.14.6
+
+
+1. https://github.com/BVLC/caffe.git 설치
+
+2. https://caffe.berkeleyvision.org/gathered/examples/web_demo.html 따라하기
+
+- 패키지 
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
