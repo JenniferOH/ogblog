@@ -21,6 +21,9 @@ caffe 패키지 설치 이슈
 - 참고: https://caffe.berkeleyvision.org/install_osx.html
 - 아래 주소에서 NDIVIA 툴킷 다운로드 
 https://developer.nvidia.com/cuda-downloads?target_os=MacOSX&target_arch=x86_64&target_version=1013&target_type=dmgnetwork
+- 툴킷 설치 후 아래 가이드대로 설정
+https://docs.nvidia.com/cuda/cuda-quick-start-guide/index.html
+
 
 
 3. https://caffe.berkeleyvision.org/gathered/examples/web_demo.html 따라하기
