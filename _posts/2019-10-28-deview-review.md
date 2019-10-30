@@ -223,6 +223,7 @@ Network
   Concatenation이나 depthwise-conv등은 플랫폼에 따라, 하드웨어에 따라 속도가 다름
 - 가벼운 모델 트레이닝 시 Adam류 보다 SGD가 훨씬 좋음
 - 가벼운 모델 트레이닝 시 training 커브에 유의해야 함 (후반에 역전되는 듯 하는 경향 발생 가능)
+- 강련한 Regularization인 CutMix 도입 (https://github.com/clovaai/CutMix-PyTorch)
 
 모델 설계 부분에서 feature 수가 부족한 layer에 feature를 추가하고, 많은 부분은 feature를 감소하여 성능을 개선했다고 하는데 왜 개선되었는지 모르겠음
 
