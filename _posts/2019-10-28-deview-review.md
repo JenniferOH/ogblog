@@ -10,11 +10,13 @@ tag: [DL, Conference]
 {:toc}
 
 
+* 이미지 정리 
+
+
 
 외산 클라우드 없이 AI 플랫폼 제공하기: features, training, serving, and AI Suite
 ====================================
-AI Platform without using cloud - 현동석
-발표자료: https://deview.kr/2019/schedule/303#
+AI Platform without using cloud - 현동석 (발표자료: https://deview.kr/2019/schedule/303#)
 
 AI Platform 필요 이유: 보안, 비용, 요구사항
 
@@ -84,8 +86,7 @@ AiFeatures
 
 문자인식(OCR), 얼마나 정확하지? (문자인식 성능을 정확하게 측정하는 방법)
 ====================================
-Measuring OCR precise accuracy - 최찬규
-발표자료: https://deview.kr/2019/schedule/311#
+Measuring OCR precise accuracy - 최찬규 (발표자료: https://deview.kr/2019/schedule/311#)
 
 성능 평가가 왜 중요한가: 
 - 문제점 파악하여 성능을 개선할 수 있기 때문
@@ -165,6 +166,40 @@ Optical Character Recognition 사용사례
 - 레이블링 데이터는 어떻게 만들었나?
   기존 평가셋가지고 그냥 사용함
 - 크래프트라는 모델을 개발해서 사용중
+
+
+
+모바일 얼굴인식, 엔진부터 DEVIEW에 적용하기까지
+====================================
+Mobile face recognition - 이승윤, 이연수 (발표자료:https://deview.kr/2019/schedule/312#)
+
+
+사용자 인식이 중요
+- 어떤 이미지가 가장 정확한가? (사진참조)
+- ex) 얼굴 기울기 70~80도
+
+Frame Handling
+- 어떤 사진이 선명한지 탐지
+- gyroscpe를 체크 (아이폰)
+UI, UX 전처리 개편
+- 카메라 인식 범위 넓게
+- 화면 정면 보도록 가이드 제공
+Face size
+- 엔진을 위해 얼굴 사이즈 설정 (너무 크거나 작은 경우 제한)
+- 얼굴이 잘리는 케이스 제한
+- 여러명인 케이스 제한
+	! 뒷사람이 얼굴이 더 크면 그사람으로 인식됨..
+Face Status
+- 얼굴 움직이는 경우 얼굴 움직임 감지
+- 얼굴 기울기가 있는 경우 어느정도 각도까지 인식하여 똑바로 세움 얼굴 사이즈, 눈 각도를 재어 각도 탐지
+- 눈을 감는 케이스  0.25 정도가 눈을 뜨고 있음 (서양인 눈에 대한 논문의 경우 주의 필요!)
+
+Network
+- 4가지 과정 암호화
+- 인퍼런스 사이즈 최적화 (이미지 크기 줄이고, 압축하여 사용)
+
+
+
 
 
 
