@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Full Stack Deep Learning #2"
+title:  "Full Stack Deep Learning #Guest Lecture 1-2"
 date:   2019-10-30 01:55:01 +0800
 categories: [Lecture]
 tag: [DL, Lecture]
