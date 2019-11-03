@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Tensorflow Trouble-shooting"
+title:  "Full Stack Deep Learning #2"
 date:   2019-10-30 01:55:01 +0800
-categories: [Tensorflow]
-tag: [TF, trouble-shooting]
+categories: [Lecture]
+tag: [DL, Lecture]
 ---
 
 * content
